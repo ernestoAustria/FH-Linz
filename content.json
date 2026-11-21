@@ -1,0 +1,580 @@
+{
+  "modules": [
+    {
+      "id": "zielbild",
+      "title": "Zielbild von Führung",
+      "category": "Fundament",
+      "lead": "Führung wird an Wirkung und Verhalten erkennbar.",
+      "body": "Ein gutes Team soll rückblickend sagen können: Es war eine Freude, zusammenzuarbeiten. Führung schafft Orientierung, Sicherheit, Zugehörigkeit und Leistungsfähigkeit. Nicht der Titel zählt, sondern was Menschen im Miteinander erleben.",
+      "example": "Ein Road Captain führt 50 Motorräder. Trotz einer falschen Abzweigung bleibt die Gruppe ruhig: Seine Rolle ist klar, das Vertrauen ist aufgebaut.",
+      "reflection": "Wie sollen andere die Zusammenarbeit mit dir in Erinnerung behalten?",
+      "tags": [
+        "Orientierung",
+        "Sicherheit",
+        "Vertrauen",
+        "Zusammenarbeit"
+      ]
+    },
+    {
+      "id": "definition",
+      "title": "Leadership ist Verhalten",
+      "category": "Fundament",
+      "lead": "Nicht Titel. Nicht Organigramm. Nicht Macht. Sondern Verhalten.",
+      "body": "Leadership bedeutet, Situationen aufmerksam wahrzunehmen, Gruppendynamiken zu erkennen, Verantwortung zu übernehmen, Grenzen zu setzen, Menschen einzubinden, Probleme zu lösen und auch unter Druck handlungsfähig zu bleiben.",
+      "example": "Im Seminarraum warten alle auf eine Anweisung. Zwei ruhigere Studierende erkennen selbstständig, dass die Tische für die Gruppenarbeit vorbereitet werden müssen, und organisieren es.",
+      "reflection": "Welche konkrete Handlung hat heute einen Unterschied gemacht?",
+      "tags": [
+        "Wahrnehmen",
+        "Verantwortung",
+        "Handeln",
+        "Einbinden"
+      ]
+    },
+    {
+      "id": "firstwho",
+      "title": "First who, then what",
+      "category": "Karriere",
+      "lead": "Zuerst die Menschen – dann die Aufgabe.",
+      "body": "Der Dozent greift Jim Collins’ Gedanken „First who, then what“ auf: Besonders wertvoll sind Menschen, denen man zutraut, neue, unklare Aufgaben verantwortlich zu übernehmen. Fachkompetenz bleibt wichtig, aber Eigeninitiative, Urteilsvermögen und Verlässlichkeit schaffen zusätzliche Wirkung.",
+      "example": "Beim Zeltfest sieht eine Person nicht nur ihren Bar-Dienst, sondern bemerkt volle Müllsäcke, organisiert Ersatz und meldet Probleme an der Schankanlage.",
+      "reflection": "Woran würde jemand deine Initiative erkennen, ohne dass du sie erklärst?",
+      "tags": [
+        "Ownership",
+        "Initiative",
+        "Verlässlichkeit",
+        "Problemlösung"
+      ]
+    },
+    {
+      "id": "karriere",
+      "title": "Karriere durch Problemlösen",
+      "category": "Karriere",
+      "lead": "Denke nicht nur an den nächsten, sondern an den übernächsten Job.",
+      "body": "Ein seitlicher Stellenwechsel ist nicht automatisch Entwicklung. Sichtbar wird, wer Probleme erkennt und Lösungen für relevante organisatorische Herausforderungen schafft: ineffiziente Prozesse, fehlende Zusammenarbeit, toxische Muster oder mangelnde Innovation. Wertschöpfung statt bloßer Karriereinszenierung.",
+      "example": "Du findest einen Prozess, der zwei Teams Zeit kostet, und entwickelst mit beiden eine praktikable Verbesserung.",
+      "reflection": "Welches ungelöste Problem wäre für die nächste Führungsebene wirklich relevant?",
+      "tags": [
+        "Wert schaffen",
+        "Strategisch denken",
+        "Innovation",
+        "Sichtbarkeit"
+      ]
+    },
+    {
+      "id": "alltag",
+      "title": "Üben, wenn nichts auf dem Spiel steht",
+      "category": "Praxis",
+      "lead": "Den Unterschied machen.",
+      "body": "Führung lässt sich vor der formellen Führungsrolle üben. Beobachte Alltagssituationen: Jemand wird ausgeschlossen, respektlos behandelt oder unfair angesprochen. Du musst nicht jede Auseinandersetzung führen. Aber du kannst bewusst entscheiden, ob und wie du Position beziehst. Auch Nichtstun ist eine Entscheidung.",
+      "example": "In einer internationalen Motorradgruppe sitzt eine finnische Teilnehmerin abseits, weil alle Deutsch sprechen. Ein Wechsel auf Englisch eröffnet echte Teilhabe.",
+      "reflection": "Wo könntest du heute mit einer kleinen Intervention sozialen Stress reduzieren?",
+      "tags": [
+        "Alltagsmut",
+        "Inklusion",
+        "Beobachten",
+        "Position beziehen"
+      ]
+    },
+    {
+      "id": "uebung",
+      "title": "Übe Führung, bevor du führen musst",
+      "category": "Praxis",
+      "lead": "Beobachten. Ausprobieren. Reflektieren. Wiederholen.",
+      "body": "Wer Konflikte, Grenzen und Verantwortung erst in der ersten echten Krise erlernt, ist oft zu spät dran. Die wiederkehrende Lernschleife besteht aus Beobachtung, bewusstem Ausprobieren, Reflexion und Wiederholung. Es geht nicht nur um Managementtechniken, sondern um eine belastbare Haltung.",
+      "example": "Du sprichst in einer harmlosen Alltagssituation ruhig eine Grenzüberschreitung an und reflektierst danach Wirkung und Ton.",
+      "reflection": "Welche kleine Übung wiederholst du diese Woche dreimal?",
+      "tags": [
+        "Beobachten",
+        "Ausprobieren",
+        "Reflektieren",
+        "Wiederholen"
+      ]
+    },
+    {
+      "id": "beduerfnis",
+      "title": "Hinter Verhalten steckt ein Bedürfnis",
+      "category": "Menschen",
+      "lead": "Nicht nur das sichtbare Verhalten beurteilen.",
+      "body": "Störendes Verhalten kann auf Stress, Unsicherheit, Überforderung oder ein unerfülltes Bedürfnis hinweisen. Die Aussage des Seminars ist ein nützlicher Suchauftrag, keine unfehlbare Diagnose: Motive müssen erfragt werden. Grenzen setzen und Ursachen verstehen schließen sich nicht aus.",
+      "example": "Ein Kollege blockiert ein HR-Meeting. Nach einer klaren Intervention erzählt er von einer bevorstehenden schwierigen Personalmaßnahme. Die Gruppe kann nun helfen.",
+      "reflection": "Welche offene Frage würde dir helfen, statt Motive zu unterstellen?",
+      "tags": [
+        "Bedürfnisse",
+        "Empathie",
+        "Nachfragen",
+        "Grenzen"
+      ]
+    },
+    {
+      "id": "rollen",
+      "title": "Rolle und Funktion",
+      "category": "Teams",
+      "lead": "Eine Führungsfunktion braucht glaubwürdiges Rollenverhalten.",
+      "body": "Teams erwarten, dass Verantwortungsträger Orientierung geben, Entscheidungen treffen und Fehler korrigieren. Passen formelle Funktion und gelebte Rolle nicht zusammen, entstehen Irritation und Vertrauensverlust. Ein Teamcoaching ersetzt nicht automatisch die Entwicklung der Führungskraft.",
+      "example": "Der Road Captain verfährt sich, korrigiert den Kurs und entschuldigt sich. Die Gruppe folgt ihm weiterhin, weil seine Führung insgesamt verlässlich ist.",
+      "reflection": "Wo ist in deinem Umfeld die Verantwortung unklar?",
+      "tags": [
+        "Rollenklarheit",
+        "Glaubwürdigkeit",
+        "Orientierung",
+        "Vertrauen"
+      ]
+    },
+    {
+      "id": "teams",
+      "title": "Was Teams brauchen",
+      "category": "Teams",
+      "lead": "Zusammenarbeit braucht soziale und strukturelle Grundlagen.",
+      "body": "Die Studierenden nannten gemeinsame Ziele, klare Rollen, gute Prozesse, Kommunikation, Vertrauen, Feedback, Fehlerkultur, Humor, Wertschätzung und konstruktive Konfliktlösung. Nicht alles ist ein Soft Fact: Prozesse, Zuständigkeiten und Entscheidungen schaffen den Rahmen.",
+      "example": "Ein Projektteam hat gute Stimmung, aber keine Verantwortlichkeiten. Erst klare Rollen und Meilensteine machen die Arbeit zuverlässig.",
+      "reflection": "Was fehlt deinem Team eher: Beziehung oder Struktur?",
+      "tags": [
+        "Ziele",
+        "Rollen",
+        "Prozesse",
+        "Vertrauen"
+      ]
+    },
+    {
+      "id": "gutefuehrung",
+      "title": "Gute und schlechte Führung",
+      "category": "Teams",
+      "lead": "Empathie ohne Entscheidungen reicht nicht.",
+      "body": "Gute Führung verbindet Zuhören, Respekt, Klarheit, Verlässlichkeit, Delegation, Rückgrat und Verantwortung. Schlechte Führung zeigt sich in Bevorzugung, Micromanagement, fehlender Kommunikation, respektlosem Verhalten und Entscheidungsschwäche. Verantwortung für Teamleistungen lässt sich nicht einfach nach unten abschieben.",
+      "example": "„Wir gewinnen gemeinsam, und wir verlieren gemeinsam“ – als Ausdruck geteilter Leistung und klarer Führungsverantwortung.",
+      "reflection": "Wie reagierst du, wenn eine Entscheidung nicht allen gefallen wird?",
+      "tags": [
+        "Empathie",
+        "Entscheidungen",
+        "Fairness",
+        "Verantwortung"
+      ]
+    },
+    {
+      "id": "situativ",
+      "title": "Situative Führung",
+      "category": "Teams",
+      "lead": "Nicht alle Menschen brauchen dieselbe Führung.",
+      "body": "Der Führungsstil sollte an Aufgabe, Kompetenz, Selbstständigkeit und Situation angepasst werden. Zu viel Kontrolle bremst Erfahrene; zu wenig Orientierung überfordert Einsteiger. Situativ führen bedeutet nicht Beliebigkeit, sondern begründete Anpassung.",
+      "example": "Eine neue Kollegin braucht klare Anleitung. Eine erfahrene Fachkraft braucht Entscheidungsspielraum und Rückendeckung.",
+      "reflection": "Wo würdest du mehr anleiten – und wo bewusst loslassen?",
+      "tags": [
+        "Reifegrad",
+        "Flexibilität",
+        "Coaching",
+        "Delegation"
+      ]
+    },
+    {
+      "id": "status",
+      "title": "Statusspiele erkennen",
+      "category": "Dynamik",
+      "lead": "Wer beansprucht gerade Deutungshoheit?",
+      "body": "In Gruppen wechseln informeller Status und Einfluss. Der Dozent analysierte öffentliche Schlagabtausche, unter anderem Gottschalk/George, als Beispiele für Statuskonflikte. Entscheidend ist, nicht reflexartig in einen Machtkampf einzusteigen, sondern den Rahmen und die Aufgabe zu sichern.",
+      "example": "Ein Gast unterbricht den Moderator und stellt dessen Kompetenz infrage. Die Gruppe beobachtet, ob der Moderator den Gesprächsrahmen wiederherstellt.",
+      "reflection": "Woran erkennst du Statusverhalten – und welche sachliche Reaktion wäre hilfreich?",
+      "tags": [
+        "Status",
+        "Rahmen",
+        "Gruppendynamik",
+        "Souveränität"
+      ]
+    },
+    {
+      "id": "grenzen",
+      "title": "Grenzen setzen ohne Demütigung",
+      "category": "Dynamik",
+      "lead": "Klar in der Sache, respektvoll zur Person.",
+      "body": "Bei wiederholten Regelverletzungen sind beobachtbare Fakten, Auswirkungen, Erwartungen und Konsequenzen wichtig. Der Vortrag zeigte auch sehr harte öffentliche Interventionen. Für die Praxis gilt: Verhältnismäßigkeit, Würde, Sicherheit und faire Anhörung wahren; öffentliche Bloßstellung ist kein Führungsziel.",
+      "example": "Eine Person kommt wiederholt zu spät. Nach einem vertraulichen Gespräch wird die verbindliche Regel im Team geklärt und bei erneuter Verletzung sachlich angesprochen.",
+      "reflection": "Wie setzt du eine Grenze, ohne die Person abzuwerten?",
+      "tags": [
+        "Grenzen",
+        "Konsequenz",
+        "Respekt",
+        "Fairness"
+      ]
+    },
+    {
+      "id": "www",
+      "title": "WWW-Methode und Feedback",
+      "category": "Werkzeuge",
+      "lead": "Wahrnehmung – Wirkung – Wunsch.",
+      "body": "Die WWW-Methode strukturiert heikle Rückmeldungen: Beschreibe konkret, was du beobachtet hast, welche Wirkung es hatte und welches Verhalten du dir wünschst. Vermeide pauschale Zuschreibungen und unterstelle keine Absichten.",
+      "example": "„Du hast mich dreimal unterbrochen. Ich konnte den Gedanken nicht abschließen. Bitte lass mich künftig ausreden.“",
+      "reflection": "Formuliere ein aktuelles Feedback in drei Sätzen.",
+      "tags": [
+        "Wahrnehmung",
+        "Wirkung",
+        "Wunsch",
+        "Feedback"
+      ]
+    },
+    {
+      "id": "johari",
+      "title": "Johari-Fenster",
+      "category": "Werkzeuge",
+      "lead": "Blinde Flecken werden durch Feedback sichtbar.",
+      "body": "Das Johari-Fenster unterscheidet vier Bereiche: öffentlich (mir und anderen bekannt), geheim (nur mir bekannt), blinder Fleck (anderen, aber nicht mir bekannt) und unbekannt (niemandem bekannt). Rückmeldungen können Selbstbild und Fremdbild näher zusammenbringen.",
+      "example": "Du hältst dich für einen hervorragenden Zuhörer. Kolleginnen erleben dagegen, dass du sie häufig unterbrichst.",
+      "reflection": "Welche Frage könnte dir ehrliches Feedback ermöglichen?",
+      "tags": [
+        "Selbstbild",
+        "Fremdbild",
+        "Feedback",
+        "Reflexion"
+      ]
+    },
+    {
+      "id": "phasen",
+      "title": "Teamphasen",
+      "category": "Dynamik",
+      "lead": "Forming – Storming – Norming – Performing.",
+      "body": "Das bekannte Teamphasenmodell hilft, Muster in der Gruppenentwicklung zu deuten. In der Orientierung werden Erwartungen geklärt, im Storming treten Konflikte hervor, im Norming entstehen Regeln und im Performing funktioniert die Zusammenarbeit zunehmend eigenständig. Die Phasen verlaufen nicht immer linear.",
+      "example": "Ein neues Projektteam streitet über Rollen. Statt den Konflikt zu ignorieren, moderiert die Führungskraft eine klare Aufgabenverteilung.",
+      "reflection": "In welcher Phase steckt dein Team gerade?",
+      "tags": [
+        "Forming",
+        "Storming",
+        "Norming",
+        "Performing"
+      ]
+    },
+    {
+      "id": "dysfunktionen",
+      "title": "Fünf Dysfunktionen eines Teams",
+      "category": "Dynamik",
+      "lead": "Vertrauen ist die Basis für gute Zusammenarbeit.",
+      "body": "Nach Patrick Lencioni: Fehlendes Vertrauen, Angst vor Konflikten, mangelndes Commitment, Scheu vor Verantwortung und fehlende Ergebnisorientierung können Teams bremsen. Die Ebenen hängen zusammen und geben eine Struktur für Teamdiagnosen.",
+      "example": "Ein Team spricht Probleme nicht an und entscheidet nur scheinbar gemeinsam. Später fühlt sich niemand für die Umsetzung verantwortlich.",
+      "reflection": "Welche Dysfunktion wäre bei euch am wichtigsten zu bearbeiten?",
+      "tags": [
+        "Vertrauen",
+        "Konflikt",
+        "Commitment",
+        "Ergebnis"
+      ]
+    },
+    {
+      "id": "intervention",
+      "title": "Intervention im Meeting",
+      "category": "Praxis",
+      "lead": "Störungen ansprechen, bevor sie das Team lähmen.",
+      "body": "Ein wirksamer Ablauf: Verhalten benennen, Wirkung auf die Gruppe schildern, klare Erwartung formulieren, gegebenenfalls eine Pause oder ein separates Gespräch ermöglichen und danach Ursachen erkunden. Die HR-Workshop-Geschichte zeigt, wie klare Grenzen und späteres Verständnis zusammenwirken können.",
+      "example": "Eine Teilnehmerin stoppt destruktive Einwürfe. In der Mittagspause wird eine persönliche Belastung sichtbar; die Gruppe stellt Zeit zur Problemlösung bereit.",
+      "reflection": "Wie würdest du den ersten Satz formulieren?",
+      "tags": [
+        "Intervention",
+        "Deeskalation",
+        "Nachfragen",
+        "Handeln"
+      ]
+    },
+    {
+      "id": "einfluss",
+      "title": "Berechtigtes Interesse und Einfluss",
+      "category": "Karriere",
+      "lead": "Wer kann eine notwendige Veränderung ermöglichen?",
+      "body": "Wenn direkte Führung keine Lösung sieht, hilft es, Interessen, Verantwortlichkeiten und organisatorische Risiken zu analysieren. Der Vortrag nutzt die Frage: Wer hat ein berechtigtes Interesse daran, dass sich etwas verbessert? Eskalation soll sachlich, rechtmäßig und verhältnismäßig erfolgen.",
+      "example": "Eine Abteilung hält an einer ineffizienten Praxis fest. Du formulierst das Risiko für Qualität und Personalbindung und suchst die zuständige Entscheidungsebene.",
+      "reflection": "Wer könnte bei deinem Thema ein echter Verbündeter sein?",
+      "tags": [
+        "Stakeholder",
+        "Interessen",
+        "Risiko",
+        "Eskalation"
+      ]
+    },
+    {
+      "id": "entwicklung",
+      "title": "Führung auf das nächste Level",
+      "category": "Karriere",
+      "lead": "Haltung, Übung und Lernbereitschaft.",
+      "body": "Leadership kann gelernt und verbessert werden, auch wenn Menschen unterschiedliche Voraussetzungen und Motivation mitbringen. Besonders wichtig sind Selbstreflexion, Feedback, der Wille zu lernen und wiederholte Anwendung in echten Situationen. Bereite dich auf Möglichkeiten vor, bevor sie auftreten.",
+      "example": "Eine eher ruhige Kollegin greift in einer schwierigen Gruppensituation souverän ein. Ihre Kompetenz wird sichtbar und sie übernimmt später mehr Verantwortung.",
+      "reflection": "Welchen Teil deiner Führungsfähigkeit willst du in den nächsten 30 Tagen trainieren?",
+      "tags": [
+        "Lernen",
+        "Bereitschaft",
+        "Selbstreflexion",
+        "Mut"
+      ]
+    },
+    {
+      "id": "stile",
+      "title": "Führungsstile 1960–2025",
+      "category": "Werkzeuge",
+      "lead": "Von Kontrolle zu Vertrauen – ohne linearen Fortschrittsmythos.",
+      "body": "Die didaktische Übersicht stellt autoritäre, transaktionale, transformationale, situative, partizipative sowie agile und Servant-Leadership-Ansätze gegenüber. Die Jahrzehnte sind eine vereinfachte Lernordnung: Die Stile entstanden nicht strikt nacheinander und werden bis heute parallel genutzt.",
+      "example": "In einer akuten Sicherheitslage kann klare Anweisung angemessen sein; für Innovation und Lernen sind Einbindung und Eigenverantwortung besonders wichtig.",
+      "reflection": "Welcher Stil passt zu welcher Situation?",
+      "tags": [
+        "Autoritär",
+        "Transaktional",
+        "Transformational",
+        "Situativ",
+        "Partizipativ",
+        "Servant Leadership"
+      ]
+    },
+    {
+      "id": "transfer",
+      "title": "Transfer in deinen Alltag",
+      "category": "Praxis",
+      "lead": "Eine gute Beobachtung wird erst durch Anwendung wertvoll.",
+      "body": "Wähle eine Situation, in der du bewusst hinsiehst. Formuliere eine Hypothese über die Dynamik, entscheide dich für eine angemessene Handlung, beobachte die Wirkung und notiere, was du beim nächsten Mal anders machst.",
+      "example": "Im Lift entsteht peinliche Stille. Ein freundlicher Gruß kann die soziale Spannung reduzieren – muss aber nicht in jeder Situation passend sein.",
+      "reflection": "Welche Beobachtung hältst du heute fest?",
+      "tags": [
+        "Transfer",
+        "Experiment",
+        "Reflexion",
+        "Wiederholung"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Was ist die zentrale Definition von Leadership im Seminar?",
+      "answers": [
+        "Die Position im Organigramm",
+        "Beobachten, Verantwortung übernehmen und wirksam handeln",
+        "Möglichst viele Mitarbeitende führen"
+      ],
+      "correct": 1,
+      "explanation": "Im Vortrag steht Verhalten und Handlungsfähigkeit im Zentrum.",
+      "module": "definition"
+    },
+    {
+      "question": "Was beschreibt „First who, then what“ am besten?",
+      "answers": [
+        "Zuerst Menschen, dann konkrete Aufgaben",
+        "Zuerst Stellenbeschreibungen, dann Bewerber",
+        "Zuerst Budget, dann Team"
+      ],
+      "correct": 0,
+      "explanation": "Die Auswahl und Entwicklung geeigneter Menschen steht im Vordergrund.",
+      "module": "firstwho"
+    },
+    {
+      "question": "Welche Handlung ist ein Beispiel für Ownership?",
+      "answers": [
+        "Nur zugewiesene Aufgaben erledigen",
+        "Probleme erkennen und Verantwortung für Lösungen übernehmen",
+        "Jede Entscheidung an Vorgesetzte delegieren"
+      ],
+      "correct": 1,
+      "explanation": "Ownership zeigt sich im eigenständigen, verantwortlichen Handeln.",
+      "module": "firstwho"
+    },
+    {
+      "question": "Was bedeutet „übernächster Job“?",
+      "answers": [
+        "Nur Gehalt verhandeln",
+        "Längerfristig relevante Kompetenzen und Probleme mitdenken",
+        "Jährlich die Abteilung wechseln"
+      ],
+      "correct": 1,
+      "explanation": "Entwicklung wird strategisch und nicht nur als nächster Schritt betrachtet.",
+      "module": "karriere"
+    },
+    {
+      "question": "Wie lautet die Übungsschleife?",
+      "answers": [
+        "Planen – Befehlen – Kontrollieren – Sanktionieren",
+        "Beobachten – Ausprobieren – Reflektieren – Wiederholen",
+        "Warten – Reagieren – Vergessen"
+      ],
+      "correct": 1,
+      "explanation": "Wiederholung und Reflexion fördern die Handlungssicherheit.",
+      "module": "uebung"
+    },
+    {
+      "question": "Was ist beim Ausschluss einer Person in einer Gruppe hilfreich?",
+      "answers": [
+        "Nicht wahrnehmen",
+        "Bewusst und respektvoll Teilhabe ermöglichen",
+        "Alle zwingen, gleich viel zu sprechen"
+      ],
+      "correct": 1,
+      "explanation": "Das Sprachwechsel-Beispiel zeigt eine kleine Intervention mit großer Wirkung.",
+      "module": "alltag"
+    },
+    {
+      "question": "Was ist bei störendem Verhalten ein sinnvoller erster Gedanke?",
+      "answers": [
+        "Die Person ist absichtlich schwierig",
+        "Es könnte ein unerkanntes Bedürfnis oder eine Belastung geben",
+        "Das Verhalten muss ignoriert werden"
+      ],
+      "correct": 1,
+      "explanation": "Motive nicht unterstellen, sondern erfragen.",
+      "module": "beduerfnis"
+    },
+    {
+      "question": "Was passiert bei unklarer Führungsrolle?",
+      "answers": [
+        "Immer höhere Leistung",
+        "Irritation und Vertrauensverlust sind möglich",
+        "Alle Konflikte verschwinden"
+      ],
+      "correct": 1,
+      "explanation": "Rolleninkongruenz kann die Gruppe verunsichern.",
+      "module": "rollen"
+    },
+    {
+      "question": "Was brauchen Teams neben Vertrauen?",
+      "answers": [
+        "Klare Ziele, Rollen und Prozesse",
+        "Nur gute Stimmung",
+        "Keine Entscheidungen"
+      ],
+      "correct": 0,
+      "explanation": "Struktur und Beziehung ergänzen sich.",
+      "module": "teams"
+    },
+    {
+      "question": "Was zeichnet gute Führung aus?",
+      "answers": [
+        "Konflikte vermeiden",
+        "Empathie mit Entscheidungskraft verbinden",
+        "Alles selbst machen"
+      ],
+      "correct": 1,
+      "explanation": "Zuhören ist wichtig, aber Entscheidungen gehören ebenfalls dazu.",
+      "module": "gutefuehrung"
+    },
+    {
+      "question": "Warum ist Bevorzugung problematisch?",
+      "answers": [
+        "Sie verbessert die Fairness",
+        "Sie kann Vertrauen und Teamkultur vergiften",
+        "Sie ist immer leistungsfördernd"
+      ],
+      "correct": 1,
+      "explanation": "Ungleiche Behandlung untergräbt die Glaubwürdigkeit.",
+      "module": "gutefuehrung"
+    },
+    {
+      "question": "Was ist situative Führung?",
+      "answers": [
+        "Alle gleich führen",
+        "Führung an Person und Situation anpassen",
+        "Führung nur in Krisen"
+      ],
+      "correct": 1,
+      "explanation": "Bedarf und Selbstständigkeit unterscheiden sich.",
+      "module": "situativ"
+    },
+    {
+      "question": "Was ist ein Statusspiel?",
+      "answers": [
+        "Ein formales Organigramm",
+        "Ein Ringen um Einfluss und Deutungshoheit",
+        "Ein Vergütungssystem"
+      ],
+      "correct": 1,
+      "explanation": "Informeller Status entsteht in Interaktionen.",
+      "module": "status"
+    },
+    {
+      "question": "Was ist beim Grenzen setzen wichtig?",
+      "answers": [
+        "Öffentliche Demütigung",
+        "Klarheit und Verhältnismäßigkeit",
+        "Keine Rückmeldung"
+      ],
+      "correct": 1,
+      "explanation": "Die Würde der Beteiligten bleibt zu wahren.",
+      "module": "grenzen"
+    },
+    {
+      "question": "Wofür steht WWW?",
+      "answers": [
+        "Wahrnehmung – Wirkung – Wunsch",
+        "Wissen – Wollen – Warten",
+        "Werte – Wandel – Wachstum"
+      ],
+      "correct": 0,
+      "explanation": "Die WWW-Struktur unterstützt konkrete, faire Rückmeldungen.",
+      "module": "www"
+    },
+    {
+      "question": "Was ist der blinde Fleck im Johari-Fenster?",
+      "answers": [
+        "Mir bekannt, anderen unbekannt",
+        "Mir und anderen unbekannt",
+        "Anderen bekannt, mir unbekannt"
+      ],
+      "correct": 2,
+      "explanation": "Feedback kann diesen Bereich verkleinern.",
+      "module": "johari"
+    },
+    {
+      "question": "Welche Phase folgt im Modell auf Forming?",
+      "answers": [
+        "Performing",
+        "Storming",
+        "Adjourning"
+      ],
+      "correct": 1,
+      "explanation": "Die übliche Lernsequenz ist Forming, Storming, Norming, Performing.",
+      "module": "phasen"
+    },
+    {
+      "question": "Was bildet bei Lencioni die Grundlage?",
+      "answers": [
+        "Vertrauen",
+        "Sanktionen",
+        "Status"
+      ],
+      "correct": 0,
+      "explanation": "Fehlendes Vertrauen erschwert konstruktiven Konflikt und Commitment.",
+      "module": "dysfunktionen"
+    },
+    {
+      "question": "Wie reagierst du auf destruktive Einwürfe im Meeting?",
+      "answers": [
+        "Angreifen",
+        "Verhalten und Wirkung benennen, Erwartungen klären",
+        "Ignorieren, bis alle gehen"
+      ],
+      "correct": 1,
+      "explanation": "Sachliche Interventionen sichern die Zusammenarbeit.",
+      "module": "intervention"
+    },
+    {
+      "question": "Was meint berechtigtes Interesse?",
+      "answers": [
+        "Wer kann von der Lösung profitieren und Verantwortung tragen?",
+        "Wer hat die höchste Hierarchiestufe?",
+        "Wer ist am lautesten?"
+      ],
+      "correct": 0,
+      "explanation": "Eine Stakeholder-Perspektive hilft, Veränderung zu ermöglichen.",
+      "module": "einfluss"
+    },
+    {
+      "question": "Welche Aussage über Führungsstile ist richtig?",
+      "answers": [
+        "Jeder Stil löst den vorherigen vollständig ab",
+        "Unterschiedliche Stile existieren parallel und passen zu unterschiedlichen Situationen",
+        "Servant Leadership verbietet Entscheidungen"
+      ],
+      "correct": 1,
+      "explanation": "Die historische Übersicht ist didaktisch vereinfacht.",
+      "module": "stile"
+    },
+    {
+      "question": "Was ist ein sinnvoller Lerntransfer?",
+      "answers": [
+        "Einmal lesen und vergessen",
+        "Beobachtung, Intervention, Wirkung und Reflexion dokumentieren",
+        "Nur Quizfragen auswendig lernen"
+      ],
+      "correct": 1,
+      "explanation": "Praxis und Reflexion schließen die Lernschleife.",
+      "module": "transfer"
+    }
+  ]
+}
